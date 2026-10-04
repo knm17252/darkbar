@@ -6,4 +6,5 @@ The Eye of Providence (part of the) icon made by [game-icons.net](https://game-i
 
 ---
 
-# *AI USAGE NOTE: The code for project was made with the use of AI, Claude to be specific. The icon, title, and almost all text/graphics/design in the app, as well as this readme, were created by me.*
+# *AI USAGE NOTE:*
+*The code for project was made with the use of AI, Claude to be specific. The icon, title, and almost all text/graphics/design in the app, as well as this readme, were created by me.*
