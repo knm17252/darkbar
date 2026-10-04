@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="220" valign="top">
-      <img src="assets/DarkBar_512.png" width="200" alt="DarkBar icon">
+      <img src="rm_assets/DBIcon.png" width="200" alt="DarkBar icon">
     </td>
     <td valign="top">
       <h2>DarkBar</h2>
