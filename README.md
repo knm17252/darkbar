@@ -19,7 +19,7 @@
 
 - Disable the touch bar on-demand by using a shortcut (Opt+Cmd+T by default), or by clicking the menu bar item
 - Auto-disabling after some time (from 10 seconds, to 10 minutes)
-- Optional on-screen **esc** button, for 2016-2019 13" MacBook Pros, and all 15" MBP's that feature the Butterfly keyboard (off by default, since my machine is a 2020 model)
+- Optional on-screen **esc** button (for 2016-2019 13" MacBook Pros, and all 15" MBP's that feature the Butterfly keyboard [off by default, since my personal machine is a 2020 model])
 - Auto-open on login
 - Show the app icon in dock
 
