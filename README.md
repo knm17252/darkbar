@@ -7,7 +7,7 @@
     </td>
     <td valign="top">
       <h2>DarkBar</h2>
-      <p>A small menu bar utility that fades your MacBook's Touch Bar to black, on demand
+      <p>A small menu bar utility that fades your Mac's Touch Bar to black, on demand,
       or automatically when you go idle.</p>
       <p><b>Download:</b> grab the latest <code>.dmg</code> from the
       <a href="../../releases/latest">Releases page</a>.</p>
